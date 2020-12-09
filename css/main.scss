@@ -2,8 +2,8 @@
 ---
 
 $enable-responsive-font-sizes: true;
-$primary: #007cb0;
-$secondary: #43a047;
+$primary: #005ca9;
+$secondary: #fcdb00;
 @import "bootstrap/bootstrap";
 @import "fontawesome/fontawesome";
 @import "fontawesome/solid";
@@ -36,6 +36,10 @@ h5,
 .navbar .active a {
   font-weight: 700 !important;
   text-decoration: underline;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: rgba(255,255,255,0.7);
 }
 
 .logo {

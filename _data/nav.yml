@@ -6,14 +6,12 @@ links:
       - title: Sensor selbst bauen
         url: /selbstbau-sensor.html
 
-  - title: Über Clair Berlin
+  - title: Über BühlAIRfrischt
     submenu:
     - title: Wissenschaft
       url: /hintergrund.html
     - title: Technik
       url: /technik.html
-    - title: Team
-      url: /team.html
   - title: Neuigkeiten
     url: /neuigkeiten.html
   - title: FAQ

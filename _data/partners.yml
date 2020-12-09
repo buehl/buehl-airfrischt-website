@@ -1,16 +1,8 @@
-- name: CityLAB Berlin
-  image: citylab-logo.svg
-  width: 220
-  url: https://www.citylab-berlin.org/
-- name: Hochschule für Technik und Wirtschaft Berlin
-  image: htw-logo.jpg
-  width: 180
-  url: https://www.htw-berlin.de/
-- name: IHK Berlin
-  image: ihk-logo.png
-  width: 200
-  url: https://www.ihk-berlin.de/
-- name: HPI E-School
-  image: hpi-logo.png
-  width: 150
-  url: https://hpi.de/entrepreneurship/
+- name: Clair Berlin
+  image: clair-logo-blue.svg
+  width: 300
+  url: https://clair-berlin.de/
+- name: Stadt Bühl
+  image: stadtbuehl.png
+  width: 300
+  url: https://buehl.de/

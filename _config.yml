@@ -1,16 +1,16 @@
-title: Clair Berlin
-copyright: 2020 Clair Berlin
-url: https://clair-berlin.de
+title: BühlAIRfrischt
+copyright: 2020 Stadt Bühl
+url: https://buehlairfrischt.de
 # baseurl: /clair
-email: kontakt@clair-berlin.de
-description: Clair Berlin - nichtkommerzielle Initiative zur Messung der Luftqualität in öffentlich zugänglichen Räumen
+email: kontakt@buehlairfrischt.de
+description: BühlAIRfrischt - eine Initiative der Stadt Bühl zur Messung der Luftqualität in öffentlich zugänglichen Räumen
 twitter:
   username: clair_berlin
   card: summary
 logo: /img/clair-cloud-blue.svg
 locale: de_DE
 social:
-  name: Clair Berlin
+  name: Stadt Bühl
   links:
     - https://twiter.com/clair_berlin
     - https://www.facebook.com/ClairBerlinInitiative

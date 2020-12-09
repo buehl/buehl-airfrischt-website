@@ -1,6 +1,6 @@
 ---
 layout: home
 title: Startseite
-image: /img/hero-adrian-trinkaus.jpg
+image: /img/clair-stack.jpg
 ---
-# Clair Berlin
+# BühlAIRfrischt
