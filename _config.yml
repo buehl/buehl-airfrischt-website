@@ -1,20 +1,16 @@
 title: BühlAIRfrischt
 copyright: 2020 Stadt Bühl
-url: https://buehlairfrischt.de
+url: https://buehl.airfrischt.de
 # baseurl: /clair
-email: kontakt@buehlairfrischt.de
+email: kontakt@airfrischt.de
 description: BühlAIRfrischt - eine Initiative der Stadt Bühl zur Messung der Luftqualität in öffentlich zugänglichen Räumen
-twitter:
-  username: clair_berlin
-  card: summary
 logo: /img/clair-cloud-blue.svg
 locale: de_DE
 social:
   name: Stadt Bühl
   links:
-    - https://twiter.com/clair_berlin
-    - https://www.facebook.com/ClairBerlinInitiative
-    - https://github.com/ClairBerlin
+    - https://www.facebook.com/StadtBuehl
+    - https://github.com/buehl
 show_excerpts: true
 plugins:
   - jekyll-feed

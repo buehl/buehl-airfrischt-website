@@ -6,71 +6,63 @@ layout: page
 
 ## Angaben gemäß § 5 TMG
 
-Ulrich Schuster und Jan Weil  
+Stadt Bühl
+Hauptstraße 47
+77815 Bühl
 
-Ulrich Schuster  
-Hauptstr. 139  
-10827 Berlin
+Vertreten durch:
+Oberbürgermeister Hubert Schnurr
 
 ## Kontakt
 
-Telefon: (+49 30) 72 29 36 21  
-Telefax: (+49 30) 22 02 25 43  
-E-Mail: <{{ site.email }}>
+Telefon: (0 72 23) 9 35-0
+Telefax: (0 72 23) 9 35-207
+E-Mail: stadt@buehl.de
+
+## Umsatzsteuer
+
+Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE 143 752 846
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
-Jan Weil  
-Livländische Straße 24  
-10715 Berlin
+Eduard Itrich
+Digitalisierungsbeauftragter
+Haupststraße 47
+77815 Bühl
+E-Mail: e.itrich.stadt@buehl.de
 
 ## Haftung für Inhalte
 
-Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen
-Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind
-wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder
-gespeicherte fremde Informationen zu überwachen oder nach Umständen zu
-forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
-
-Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach
-den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung
-ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung
-möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir
-diese Inhalte umgehend entfernen.
+Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach
+den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter
+jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen
+oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen
+zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben
+hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer
+konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden
+wir diese Inhalte umgehend entfernen.
 
 ## Haftung für Links
 
 Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir
 keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine
-Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der
-jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten
-Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße
-überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht
-erkennbar.
-
-Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne
-konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden
-von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige
+Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden
+zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige
+Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche
+Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung
+nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links
+umgehend entfernen.
 
 ## Urheberrecht
 
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten
 unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung,
-Verbreitung und jede Art der Verwertung außerhalb der Grenzen des
-Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw.
-Erstellers.  Downloads und Kopien dieser Seite sind nur für den privaten, nicht
-kommerziellen Gebrauch gestattet.  Soweit die Inhalte auf dieser Seite nicht
-vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet.
-Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie
-trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um
-einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden
-wir derartige Inhalte umgehend entfernen.
-
-# Bildnachweise
-
-[Unsplash](https://unsplash.com)-Fotos von {% for artist in site.data.unsplash %}
-[{{ artist.name }}]({{ artist.url }})
-{%- unless forloop.last -%}
-,
-{%- endunless -%}
-{%- endfor -%}
+Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes
+bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
+Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen
+Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt
+wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter
+als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung
+aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von
+Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.

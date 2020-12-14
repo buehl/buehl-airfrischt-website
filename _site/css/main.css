@@ -5454,6 +5454,10 @@ main img { max-width: 100%; height: auto; display: block; margin: 0 auto 0 auto;
 
 blockquote { border-left: 1px solid grey; padding-left: 1em; font-style: italic; }
 
+footer a { color: #f8f9fa !important; }
+
+footer a:hover { color: rgba(255, 255, 255, 0.7); }
+
 .circle { padding: 13px 20px; border-radius: 50%; background-color: #005ca9; border-color: white; border: 3px solid white; color: #fff; z-index: 2; height: 4em; width: 4em; }
 
 .how-it-works.row .col-2 { align-self: stretch; }

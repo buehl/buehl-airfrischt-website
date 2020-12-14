@@ -1,19 +1,10 @@
 links:
-  - title: Mitmachen
-    submenu:
-      - title: Registrieren
-        url: /mitmachen.html
-      - title: Sensor selbst bauen
-        url: /selbstbau-sensor.html
-
   - title: Über BühlAIRfrischt
     submenu:
     - title: Wissenschaft
       url: /hintergrund.html
     - title: Technik
       url: /technik.html
-  - title: Neuigkeiten
-    url: /neuigkeiten.html
   - title: FAQ
     url: /faq.html
 
