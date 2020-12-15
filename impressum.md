@@ -6,18 +6,18 @@ layout: page
 
 ## Angaben gemäß § 5 TMG
 
-Stadt Bühl
-Hauptstraße 47
-77815 Bühl
+Stadt Bühl  
+Hauptstraße 47  
+77815 Bühl  
 
-Vertreten durch:
-Oberbürgermeister Hubert Schnurr
+Vertreten durch:  
+Oberbürgermeister Hubert Schnurr  
 
 ## Kontakt
 
-Telefon: (0 72 23) 9 35-0
-Telefax: (0 72 23) 9 35-207
-E-Mail: stadt@buehl.de
+Telefon: (0 72 23) 9 35-0  
+Telefax: (0 72 23) 9 35-207  
+E-Mail: stadt@buehl.de  
 
 ## Umsatzsteuer
 
@@ -25,11 +25,11 @@ Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE 143 752
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
-Eduard Itrich
-Digitalisierungsbeauftragter
-Haupststraße 47
-77815 Bühl
-E-Mail: e.itrich.stadt@buehl.de
+Eduard Itrich  
+Digitalisierungsbeauftragter  
+Haupststraße 47  
+77815 Bühl  
+E-Mail: e.itrich.stadt@buehl.de  
 
 ## Haftung für Inhalte
 

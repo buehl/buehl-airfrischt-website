@@ -55,9 +55,9 @@ how:
     - title: Technik
       img: /img/code.jpg
       paragraph: |
-        Die BühlAIRfrischt-Plattform ist ein quelloffenes Software-System um Messwerte vernetzter Luftqualitätssensoren zu sammeln und bereitzustellen. Sensoren sind kommerziell verfügbar; wir binden sie derzeit über das offene [The Things Network](https://www.thethingsnetwork.org/) an; über eine REST-Schnittstelle ist die Clair-Plattform aber offen für andere HTTP-basierte Kommunikationsprotokolle. Der gesamte Quellcode is als freie Software [auf GitHub](https://github.com/ClairBerlin) öffentlich.
+        Die Plattform BühlAIRfrischt basiert auf dem offenen Projekt Clair Berlin, ein Software-System um Messwerte vernetzter Luftqualitätssensoren zu sammeln und bereitzustellen. Sensoren sind kommerziell verfügbar; wir binden sie derzeit über das offene [The Things Network](https://www.thethingsnetwork.org/) an; über eine REST-Schnittstelle ist die Clair-Plattform aber offen für andere HTTP-basierte Kommunikationsprotokolle. Der gesamte Quellcode is als freie Software [auf GitHub](https://github.com/ClairBerlin) öffentlich.
 
-        [Mehr Informationen zur Technik]({{ '/technik.html' | relative_url }})
+        [Mehr Informationen zur Technik auf Clair-Berlin]({{ 'https://clair-berlin.de/technik.html' | aboslute_url }})
 about:
   title: Wer steckt hinter BühlAIRfrischt?
   paragraph: |

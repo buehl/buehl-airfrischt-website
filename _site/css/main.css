@@ -5456,7 +5456,7 @@ blockquote { border-left: 1px solid grey; padding-left: 1em; font-style: italic;
 
 footer a { color: #f8f9fa !important; }
 
-footer a:hover { color: rgba(255, 255, 255, 0.7); }
+footer a:hover { color: rgba(255, 255, 255, 0.7) !important; }
 
 .circle { padding: 13px 20px; border-radius: 50%; background-color: #005ca9; border-color: white; border: 3px solid white; color: #fff; z-index: 2; height: 4em; width: 4em; }
 

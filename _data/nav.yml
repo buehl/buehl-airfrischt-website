@@ -1,10 +1,6 @@
 links:
   - title: Über BühlAIRfrischt
-    submenu:
-    - title: Wissenschaft
-      url: /hintergrund.html
-    - title: Technik
-      url: /technik.html
+    url: /hintergrund.html
   - title: FAQ
     url: /faq.html
 

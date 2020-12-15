@@ -63,12 +63,12 @@ nicht möglich.
 #### Hinweis zur verantwortlichen Stelle
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Stadt Bühl
-Hauptstraße 47
-77815 Bühl
+Stadt Bühl  
+Hauptstraße 47  
+77815 Bühl  
 
-Telefon: (07223) 9 35-0
-E-Mail: stadt@buehl.de
+Telefon: (07223) 9 35-0  
+E-Mail: stadt@buehl.de  
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein
 oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten
