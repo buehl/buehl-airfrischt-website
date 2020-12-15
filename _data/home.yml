@@ -4,16 +4,16 @@ widgetSiteId: 5
 synopsis:
   title: Saubere Luft in öffentlich zugänglichen Räumen
   description: |
-    Ob Café, Wartezimmer oder Konferenzsaal - viele Menschen in einem Raum "verbrauchen" die Luft; das Infektionsrisiko steigt und die Konzentrationsfähigkeit nimmt ab. Als Betreiberin oder Betreiber eines öffentlich zugänglichen Raumes hilft euch BühlAIRfrischt, die Belüftung zu verbessern und die Öffentlichkeit darüber zu informieren. Tue Gutes und rede darüber: Installiere einen Sensor und registrieren ihn auf der BühlAIRfrischt Plattform; analysiere die Messwerte, optimiere die Lüftung und veröffentliche das Ergebnis.
+    Ob Café, Wartezimmer oder Konferenzsaal - viele Menschen in einem Raum "verbrauchen" die Luft; das Infektionsrisiko steigt und die Konzentrationsfähigkeit nimmt ab. Als Betreiberin oder Betreiber eines öffentlich zugänglichen Raumes hilft euch BühlAIRfrischt, die Belüftung zu verbessern und die Öffentlichkeit darüber zu informieren. Tue Gutes und rede darüber: Installiere einen Sensor und registriere ihn auf der BühlAIRfrischt Plattform; analysiere die Messwerte, optimiere die Lüftung und veröffentliche das Ergebnis.
 
     BühlAIRfrischt ist eine Initiative der Stadt Bühl, um mittels vernetzter CO<sub>2</sub>-Sensoren Daten zur Luftqualität zu sammeln, auszuwerten und öffentlich bereitzustellen. Wir liefern die Datenbasis für verantwortungsvolle Entscheidungen und zeigen, in welchem Raum die Luft rein ist.
 
 join:
   title: Ich betreibe einen öffentlich zugänglichen Raum.<br>Kann ich mitmachen?
-  description: Ja! Wir suchen derzeit möglichst diverse Räume und Orte für den Testbetrieb.
+  description: Ja! Wir suchen derzeit möglichst unterschiedliche Räume und Orte für den Testbetrieb.
   steps:
     - subtitle: Für den Testbetrieb registrieren, Sensor installieren
-      description: Von Anfang an dabei! Sensoren sind batteriebetrieben und können einfach aufgehängt werden.
+      description: Von Anfang an dabei! Sensoren sind batteriebetrieben und können einfach aufgestellt werden.
       class: fab fa-wpforms
     - subtitle: Daten analysieren und Lüftung optimieren
       description: Analysieren Sie den zeitlichen Verlauf der Luftqualität in Ihrem Raum, um Ihr Lüftungskonzept anzupassen.
@@ -22,7 +22,7 @@ join:
       description: Binden Sie das BühlAIRfrischt-Widget auf Ihrer Website ein und zeigen Sie der Öffentlichkeit, dass bei Ihnen die Luft rein ist.
       class: fas fa-chart-line
   button:
-    url: mitmachen.html
+    url: mailto:digitale.stadt@buehl.de
     title: Jetzt mitmachen
 
 why:

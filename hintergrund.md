@@ -25,8 +25,6 @@ und beim Singen ausgeschiedenen Aerosolen.
 
 ## CO<sub>2</sub>-Konzentration als Indikator des Infektionsrisikos
 
-Bei den aktuellen Infektionszahlen können wir leider vereinfachend davon ausgehen, dass in jedem größeren Raum zumindest eine infektiöse Person anwesend ist oder vor kurzem anwesend war, und daher mit sehr hoher Wahrscheinlichkeit ein mit Viren belastetes Aerosol erzeugt hat. Somit geht es nicht um die Frage, ob Viren in der Luft sind, sondern es reicht eine Antwort auf die einfachere Frage, wie viel menschliches Aerosol in der Luft ist.
-
 Die CO<sub>2</sub>-Konzentration gilt seit langem als guter Indikator für den
 Luftwechsel und die Luftqualität und somit im Kontext der SARS-CoV-2-Pandemie
 auch als Indikator für das Infektionsrisiko, vgl.
