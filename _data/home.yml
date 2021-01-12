@@ -1,12 +1,12 @@
-title: BühlAIRfrischt!
+title: Bühl AIRfrischt!
 subtitle: Frischer Wind gefällig?
 widgetSiteId: 5
 synopsis:
   title: Saubere Luft in öffentlich zugänglichen Räumen
   description: |
-    Ob Café, Wartezimmer oder Konferenzsaal - viele Menschen in einem Raum "verbrauchen" die Luft; das Infektionsrisiko steigt und die Konzentrationsfähigkeit nimmt ab. Als Betreiberin oder Betreiber eines öffentlich zugänglichen Raumes hilft euch BühlAIRfrischt, die Belüftung zu verbessern und die Öffentlichkeit darüber zu informieren. Tue Gutes und rede darüber: Installiere einen Sensor und registriere ihn auf der BühlAIRfrischt Plattform; analysiere die Messwerte, optimiere die Lüftung und veröffentliche das Ergebnis.
+    Ob Café, Wartezimmer oder Konferenzsaal - viele Menschen in einem Raum "verbrauchen" die Luft; das Infektionsrisiko steigt und die Konzentrationsfähigkeit nimmt ab. Als Betreiberin oder Betreiber eines öffentlich zugänglichen Raumes hilft euch Bühl AIRfrischt, die Belüftung zu verbessern und die Öffentlichkeit darüber zu informieren. Tue Gutes und rede darüber: Installiere einen Sensor und registriere ihn auf der Bühl AIRfrischt Plattform; analysiere die Messwerte, optimiere die Lüftung und veröffentliche das Ergebnis.
 
-    BühlAIRfrischt ist eine Initiative der Stadt Bühl, um mittels vernetzter CO<sub>2</sub>-Sensoren Daten zur Luftqualität zu sammeln, auszuwerten und öffentlich bereitzustellen. Wir liefern die Datenbasis für verantwortungsvolle Entscheidungen und zeigen, in welchem Raum die Luft rein ist.
+    Bühl AIRfrischt ist eine Initiative der Stadt Bühl, um mittels vernetzter CO<sub>2</sub>-Sensoren Daten zur Luftqualität zu sammeln, auszuwerten und öffentlich bereitzustellen. Wir liefern die Datenbasis für verantwortungsvolle Entscheidungen und zeigen, in welchem Raum die Luft rein ist.
 
 join:
   title: Ich betreibe einen öffentlich zugänglichen Raum.<br>Kann ich mitmachen?
@@ -16,35 +16,35 @@ join:
       description: Von Anfang an dabei! Sensoren sind batteriebetrieben und können einfach aufgestellt werden.
       class: fab fa-wpforms
     - subtitle: Daten analysieren und Lüftung optimieren
-      description: Analysieren Sie den zeitlichen Verlauf der Luftqualität in Ihrem Raum, um Ihr Lüftungskonzept anzupassen.
+      description: Analysiere den zeitlichen Verlauf der Luftqualität in deinem Raum, um dein Lüftungskonzept anzupassen.
       class: fas fa-wind
     - subtitle: Messwerte veröffentlichen
-      description: Binden Sie das BühlAIRfrischt-Widget auf Ihrer Website ein und zeigen Sie der Öffentlichkeit, dass bei Ihnen die Luft rein ist.
+      description: Binde das Bühl AIRfrischt-Widget auf deiner Website ein und zeige der Öffentlichkeit, dass bei dir die Luft rein ist.
       class: fas fa-chart-line
   button:
     url: mailto:digitale.stadt@buehl.de
     title: Jetzt mitmachen
 
 why:
-  title: Warum BühlAIRfrischt?
+  title: Warum Bühl AIRfrischt?
   description: |
-    Wir tragen dazu bei, dass sich Bühlerinnen und Bühler besonnen für oder gegen den Besuch eines öffentlichen Raumes entscheiden. Als Einzelhandel, Gastronomie oder Veranstalter könnt ihr einfach die Luftqualität in euren Räumen messen, über die BühlAIRfrischt Plattform veröffentlich und somit zeigen, dass eure Vorkehrungen wirken. Politik und Verwaltung können zielgerichtet und auf einer soliden Datengrundlage über Maßnahmen entscheiden.
+    Wir tragen dazu bei, dass sich Bühlerinnen und Bühler besonnen für oder gegen den Besuch eines öffentlichen Raumes entscheiden. Als Einzelhandel, Gastronomie oder Veranstalter könnt ihr einfach die Luftqualität in euren Räumen messen, über die Bühl AIRfrischt Plattform veröffentlich und somit zeigen, dass eure Vorkehrungen wirken. Politik und Verwaltung können zielgerichtet und auf einer soliden Datengrundlage über Maßnahmen entscheiden.
 
   sections:
     - title: Ich betreibe einen öffentlich zugänglichen Raum
       fa-class: fas fa-building
       paragraph: |
-        Installiere einen vernetzten CO<sub>2</sub>-Sensor und verbinde ihn mit der BühlAIRfrischt Plattform. Auf Deinem privaten Dashboard kannst Du den Zeitverlauf der Luftqualität analysieren, um Maßnahmen auszuprobieren. Wenn alles passt, kannst Du die Werte veröffentlichen, das BühlAIRfrischt-Widget auf Deiner Website einbinden und Deinen Raum mit dem Clair-Logo kennzeichnen.
+        Installiere einen vernetzten CO<sub>2</sub>-Sensor und verbinde ihn mit der Bühl AIRfrischt Plattform. Auf Deinem privaten Dashboard kannst Du den Zeitverlauf der Luftqualität analysieren, um Maßnahmen auszuprobieren. Wenn alles passt, kannst Du die Werte veröffentlichen, das Bühl AIRfrischt-Widget auf Deiner Website einbinden und Deinen Raum mit dem Clair-Logo kennzeichnen.
     - title: Ich halte mich in öffentlich zugänglichen Räumen auf
       fa-class: fas fa-cocktail
       paragraph: |
-        Das BühlAIRfrischt-Logo sagt Dir, dass eine Betreiberin oder ein Betreiber einen Raum gut belüftet und die Messwerte dazu veröffentlicht - bald hier auf der BühlAIRfrischt Website, oder auf der Website des Raums. Fehlt ein Raum? Dann rege die Betreiber an, der BühlAIRfrischt-Initiative beizutreten.
+        Das Bühl AIRfrischt-Logo sagt dir, dass eine Betreiberin oder ein Betreiber einen Raum gut belüftet und die Messwerte dazu veröffentlicht - bald hier auf der Bühl AIRfrischt Website, oder auf der Website des Raums. Fehlt ein Raum? Dann rege die Betreiber an, der Bühl AIRfrischt-Initiative beizutreten.
     - title: Ich entwickle Empfehlungen für öffentlich zugängliche Räume
       fa-class: fas fa-chart-bar
       paragraph: |
-        Die öffentlich zugänglichen Messdaten stehen Dir über eine Schnittstelle elektronisch für Analysen zur Verfügung. Darüber hinaus können Betreiberinnen und Betreiber Dir weitere Messdaten für Forschungszwecke freigeben. Für die Öffentlichkeit hilfreiche wissenschaftlich fundierte Kenngrößen bringen wir der BühlAIRfrischt-Plattform gerne bei.
+        Die öffentlich zugänglichen Messdaten stehen dir über eine Schnittstelle elektronisch für Analysen zur Verfügung. Darüber hinaus können Betreiberinnen und Betreiber dir weitere Messdaten für Forschungszwecke freigeben. Für die Öffentlichkeit hilfreiche wissenschaftlich fundierte Kenngrößen bringen wir der Bühl AIRfrischt-Plattform gerne bei.
 how:
-  title: Informationen zu BühlAIRfrischt
+  title: Informationen zu Bühl AIRfrischt
   sections:
     - title: Wissenschaft
       img: /img/journals.jpg
@@ -55,10 +55,10 @@ how:
     - title: Technik
       img: /img/code.jpg
       paragraph: |
-        Die Plattform BühlAIRfrischt basiert auf dem offenen Projekt Clair Berlin, ein Software-System um Messwerte vernetzter Luftqualitätssensoren zu sammeln und bereitzustellen. Sensoren sind kommerziell verfügbar; wir binden sie derzeit über das offene [The Things Network](https://www.thethingsnetwork.org/) an; über eine REST-Schnittstelle ist die Clair-Plattform aber offen für andere HTTP-basierte Kommunikationsprotokolle. Der gesamte Quellcode is als freie Software [auf GitHub](https://github.com/ClairBerlin) öffentlich.
+        Die Plattform Bühl AIRfrischt basiert auf dem offenen Projekt Clair Berlin, ein Software-System um Messwerte vernetzter Luftqualitätssensoren zu sammeln und bereitzustellen. Sensoren sind kommerziell verfügbar; wir binden sie derzeit über das offene [The Things Network](https://www.thethingsnetwork.org/) an; über eine REST-Schnittstelle ist die Clair-Plattform aber offen für andere HTTP-basierte Kommunikationsprotokolle. Der gesamte Quellcode is als freie Software [auf GitHub](https://github.com/ClairBerlin) öffentlich.
 
         [Mehr Informationen zur Technik auf Clair-Berlin]({{ 'https://clair-berlin.de/technik.html' | aboslute_url }})
 about:
-  title: Wer steckt hinter BühlAIRfrischt?
+  title: Wer steckt hinter Bühl AIRfrischt?
   paragraph: |
-    BühlAIRfrischt ist eine gemeinsame Initiative der Stadt Bühl mit der Stadtgesellschaft. Für organisatorische und ideelle Unterstützung bedanken wir uns bei unseren Partnern:
+    Bühl AIRfrischt ist eine gemeinsame Initiative der Stadt Bühl mit der Stadtgesellschaft und der Open Source Gemeinschaft. Für organisatorische und ideelle Unterstützung bedanken wir uns bei unseren Partnern:

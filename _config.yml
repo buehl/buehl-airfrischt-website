@@ -1,10 +1,10 @@
-title: BühlAIRfrischt
+title: Bühl AIRfrischt
 copyright: 2020 Stadt Bühl
 url: https://buehl.airfrischt.de
 # baseurl: /clair
 email: kontakt@airfrischt.de
-description: BühlAIRfrischt - eine Initiative der Stadt Bühl zur Messung der Luftqualität in öffentlich zugänglichen Räumen
-logo: /img/clair-cloud-blue.svg
+description: Bühl AIRfrischt - eine Initiative der Stadt Bühl zur Messung der Luftqualität in öffentlich zugänglichen Räumen
+logo: /img/airfrischt-logo.png
 locale: de_DE
 social:
   name: Stadt Bühl

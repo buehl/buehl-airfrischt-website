@@ -1,9 +1,13 @@
 <nav class="navbar fixed-top d-flex align-items-center navbar-expand-lg navbar-dark bg-primary justify-content-between">
   <div class="container">
-    <a class="d-flex align-items-center navbar-brand logo" href="{{ "/" | relative_url }}">
-      <img class="mr-3" src="{{ "/img/clair-cloud-white.svg" | relative_url }}"/>
-      {{ site.title }}
-    </a>
+	<div class="logo-wrapper">
+	    <a class="d-flex align-items-center navbar-brand logo" href="{{ "/" | relative_url }}">
+	      <img class="mr-3" src="{{ '/img/airfrischt-logo.png' | relative_url }}"/>
+	      <span class="logo-text">
+			Bühl <b>AIR</b>frischt<p class="logo-subtext">Ein Sensorik-Projekt der Stadt Bühl</p>
+	      </span>
+	    </a>
+    </div>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <i class="fas fa-bars"></i>
     </button>
